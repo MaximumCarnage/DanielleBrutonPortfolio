@@ -2646,18 +2646,21 @@ input, select, textarea {
 		}
 
 			.features article .image img {
-				display: block;
+				display: inline-block;
 				width: 100%;
+
 			}
 
 		.features article .inner {
 			display: inline-block;
 			vertical-align: top;
 			width: 50%;
+
 		}
 
 			.features article .inner > :last-child {
 				margin-bottom: 0;
+
 			}
 
 /* Header */
