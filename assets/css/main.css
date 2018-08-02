@@ -2662,7 +2662,9 @@ input, select, textarea {
 				margin-bottom: 0;
 
 			}
-
+.inner {
+    padding: 35px;
+}
 /* Header */
 
 	#header {
